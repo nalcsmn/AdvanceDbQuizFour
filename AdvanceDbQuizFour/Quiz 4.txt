@@ -1,0 +1,10 @@
+40pts
+deadline: June 13, 2020
+
+Apply topics/codes from 04-16 and 04-23 to your Quiz 2 program.
+
+If I encounter any errors you will receive -10 in this quiz, so please submit all necessary files to execute your program smoothly.
+
+Once you're done with the quiz, upload all necessary files inside Quiz 4 Submission folder and create your own folder name with format [Last Name]_[First Name] e.g., Abarro_RicoSancho. Failure to follow instructions will receive -10 in this quiz.
+
+GOODLUCK! STAY SAFE!
